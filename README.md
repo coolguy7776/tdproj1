@@ -1,3 +1,3 @@
 # tdproj1
  
-Random quote generator for full stack JS tech degree. 
+Random quote generator for treehouse project 1
